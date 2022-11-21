@@ -9,6 +9,50 @@ export default function Project({ message }) {
         <p className="obj-start"></p>
         <div className="left-margin">
           <p className="key-value">
+            "name": <span className="yellow">"Coach, Coach Outlet and Katespade Japan"</span>
+          </p>
+          <p className="key-value">
+            "description":{" "}
+            <span className="yellow">
+              "Recently launched e-commerce sites for Tapestry(japan), leading luxury items brand."
+            </span>
+          </p>
+          <p className="key-value">
+            "skills":{" "}
+            <span className="yellow">
+              ["ReactJS", "Vanilla JS", "CSS"]
+            </span>
+          </p>
+          <p className="key-value">
+            "timeline": <span className="yellow">"May 2022 - Present"</span>
+          </p>
+        </div>
+        <p className="obj-end">,</p>
+        <p className="obj-start"></p>
+        <div className="left-margin">
+          <p className="key-value">
+            "name": <span className="yellow">"Sunbelt rentals"</span>
+          </p>
+          <p className="key-value">
+            "description":{" "}
+            <span className="yellow">
+              "Helped in making E-commerce website for leading North American construction tools lending company."
+            </span>
+          </p>
+          <p className="key-value">
+            "skills":{" "}
+            <span className="yellow">
+              ["ReactJS", "Vanilla JS", "SCSS"]
+            </span>
+          </p>
+          <p className="key-value">
+            "timeline": <span className="yellow">"Oct 2019 - Apr 2022"</span>
+          </p>
+        </div>
+        <p className="obj-end">,</p>
+        <p className="obj-start"></p>
+        <div className="left-margin">
+          <p className="key-value">
             "name": <span className="yellow">"Nexarc"</span>
           </p>
           <p className="key-value">
@@ -21,18 +65,18 @@ export default function Project({ message }) {
           <p className="key-value">
             "skills":{" "}
             <span className="yellow">
-              ["Automation Testing", "Manual Testing", "Java Selenium"]
+              ["ReactJS", "Vanilla JS", "CSS", "Automation testing"]
             </span>
           </p>
           <p className="key-value">
-            "timeline": <span className="yellow">"Jul 2019 - Present"</span>
+            "timeline": <span className="yellow">"Jul 2019 - Sep 2021"</span>
           </p>
         </div>
         <p className="obj-end">,</p>
         <p className="obj-start"></p>
         <div className="left-margin">
           <p className="key-value">
-            "name": <span className="yellow">"Little"</span>
+            "name": <span className="yellow">"Littlex"</span>
           </p>
           <p className="key-value">
             "description":{" "}
@@ -45,7 +89,7 @@ export default function Project({ message }) {
             </span>
           </p>
           <p className="key-value">
-            "timeline": <span className="yellow">"Jun 2021 - Present"</span>
+            "timeline": <span className="yellow">"Jun 2021 - July 2021"</span>
           </p>
           <p className="key-value">
             "live-link":{" "}

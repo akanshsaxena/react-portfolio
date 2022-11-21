@@ -19,8 +19,8 @@ export default function BasicInfo({ delay }) {
           <h3 className="command">akansh -intro</h3>
           <p>
             Hi, I am Akansh Saxena, a 23 year old{" "}
-            <span className="yellow">FullStack developer enthusiast.</span>I
-            love exploring the field of Frontend and Backend developement. I am
+            <span className="yellow">Frontend developer enthusiast.</span>I
+            love exploring the field of Frontend developement and having basic root level Backend information. I am
             passionate learner and is looking for a position where I can apply
             my skills.
           </p>
